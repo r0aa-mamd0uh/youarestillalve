@@ -1,0 +1,70 @@
+div {
+    background-color: rgb(196, 42, 42);
+    width: 1500px;
+    border: 50px;
+    padding: 200;
+    height: 50px;
+    word-spacing: 60px;
+
+}
+.two {
+   background-image: url("../task3/images.jpg"); 
+   height: 185px;
+   background-repeat: no-repeat;
+   background-size: 1500px 185px;
+   width: 2000px;
+}
+p {
+    font-size: large;
+    color: azure;
+}
+#one { 
+    color: rgb(214, 33, 33);
+    background-color: rgb(226, 191, 191);
+    width: 200px;
+}
+.fffff {
+    background-color: aqua;
+}
+.five {
+    background-color: blueviolet;
+    width: 240px;
+}
+.six {
+    background-color: blue;
+    width: 200px;
+}
+.nine {
+    background-color: aqua;
+    width: 320px;
+}
+h3 {
+    color: rgba(241, 18, 18, 0.993);
+    font-size: x-large;
+}
+#eleven {
+    color: blue;
+}
+.sixteen {
+    color: green;
+}
+h4 {
+    color: red;
+}
+#fifith {
+    color: green;
+}
+.sixth {
+    color: orange;
+}
+.null {
+    color: blueviolet;
+}
+.fourteen {
+    background-color: rgba(241, 18, 18, 0.993);
+    width: 1500px;
+    border: 50px;
+    padding: 20px;
+    height: .000001px;
+    word-spacing: 10px;
+}
